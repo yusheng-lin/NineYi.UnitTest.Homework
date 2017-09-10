@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineYi.UnitTest.Service", "NineYi.UnitTest.Service\NineYi.UnitTest.Service.csproj", "{7766C1E0-F215-4F22-8D52-D61F28736871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineYi.UnitTest.Service.Test", "NineYi.UnitTest.Service.Test\NineYi.UnitTest.Service.Test.csproj", "{46D024EF-25A5-4C35-BC7E-89A7B6D95C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7766C1E0-F215-4F22-8D52-D61F28736871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7766C1E0-F215-4F22-8D52-D61F28736871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7766C1E0-F215-4F22-8D52-D61F28736871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7766C1E0-F215-4F22-8D52-D61F28736871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D024EF-25A5-4C35-BC7E-89A7B6D95C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D024EF-25A5-4C35-BC7E-89A7B6D95C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D024EF-25A5-4C35-BC7E-89A7B6D95C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D024EF-25A5-4C35-BC7E-89A7B6D95C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
